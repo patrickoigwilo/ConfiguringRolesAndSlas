@@ -20,3 +20,6 @@ Roles are permissions that can be granted to Agents according to the departments
 3. Edit (user can edit tickets)
 4. Delete (user can delete tickets) etc.
 
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/0e84e226-cc67-4128-bde8-299398bd3174)
+
+
