@@ -22,7 +22,7 @@ Roles are permissions that can be granted to Agents according to the departments
 
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/0e84e226-cc67-4128-bde8-299398bd3174)
 
-<h4>- To create a 'Supreme Admin' role, for instance,</h4>
+<h4>- To create and configure a 'Supreme Admin' role, for instance,</h4>
 
 I clicked on Admin Panel --> Agents --> Roles, thus:
 
@@ -30,4 +30,15 @@ I clicked on Admin Panel --> Agents --> Roles, thus:
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/d203b5b3-116f-4992-8154-dc2652d0d158)
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/cf6a1363-780c-490a-b0a1-90e1b4c0508b)
 
-This Supreme Admin role was configured to do virtually everything from 'Assign' tickets to 'Transfer' tickets as shown above. 
+This Supreme Admin role was configured to do virtually everything from 'Assign' tickets to 'Transfer' tickets as shown above.
+
+<h4>- To create and configure an 'Agent' role (Helpdesk Staff), for instance,</h4>
+
+I clicked on, Admin Panel --> Agents --> Add New, thus:
+
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/8cb62d10-f5c5-488e-afa1-f9d2e5308698)
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/83e925fb-e959-454e-b853-a55ac1720c49)
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/3f4994bc-6f2a-4297-8b62-ad71fbc30b33)
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/3adf1cde-b362-4a52-b0a3-eafe779c57f9)
+
+
