@@ -63,4 +63,4 @@ I clicked on Admin Panel --> Manage --> SLA --> Add New SLA Plan, thus:
 
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/926a1c32-8d95-4707-9737-fd3325ae8a46)
 
-It is possible to configure SLA plans with different schedules and grace periods, depending on the business model.
+It is possible to configure SLA plans with different schedules and grace periods, depending on the objectives of the business.
