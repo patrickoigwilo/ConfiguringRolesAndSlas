@@ -5,7 +5,7 @@
 <h4>- Admin Panel vs Agent Panel</h4>
 
 osTicket has both an 'Admin' Panel and an 'Agent' Panel.  
-The Admin Panel allows an admin user to set up the ticketing system, define roles and SLAs, and perform other administrative functions in the osTicket environment.  
+The Admin Panel allows an admin user to set up the ticketing system, define roles and SLAs, and perform other administrative functions within the osTicket environment.  
 While the Agent Panel allows an agent user to work and close tickets opened by clients.
 
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/ae8f5877-89ca-4620-b226-f13fbcc7394c)
