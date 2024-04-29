@@ -41,4 +41,11 @@ I clicked on, Admin Panel --> Agents --> Add New, thus:
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/3f4994bc-6f2a-4297-8b62-ad71fbc30b33)
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/3adf1cde-b362-4a52-b0a3-eafe779c57f9)
 
+<h4>- To create and configure a 'User' role (Customer/Client), for instance,</h4>
 
+I clicked on, Agent Panel --> Users --> Add User, thus:
+
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/ebe9f2e9-adf8-45b2-bfa9-a27e746170ba)
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/13a8098f-0602-4b3c-8691-1d8adb70991c)
+
+<h4>- Finally, to create and configure a Service Level Agreement (SLA), for instance,</h4>
