@@ -43,7 +43,7 @@ This Supreme Admin role was configured to do virtually everything from 'Assign' 
 
 <h4>- To create and configure an 'Agent' role (Helpdesk Staff), for instance,</h4>
 
-I clicked on, Admin Panel --> Agents --> Add New, thus:
+I clicked on Admin Panel --> Agents --> Add New, thus:
 
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/8cb62d10-f5c5-488e-afa1-f9d2e5308698)
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/83e925fb-e959-454e-b853-a55ac1720c49)
@@ -52,11 +52,15 @@ I clicked on, Admin Panel --> Agents --> Add New, thus:
 
 <h4>- To create and configure a 'User' role (Customer/Client), for instance,</h4>
 
-I clicked on, Agent Panel --> Users --> Add User, thus:
+I clicked on Agent Panel --> Users --> Add User, thus:
 
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/ebe9f2e9-adf8-45b2-bfa9-a27e746170ba)
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/13a8098f-0602-4b3c-8691-1d8adb70991c)
 
 <h4>- Finally, to create and configure a Service Level Agreement (SLA), for instance,</h4>
 
-I clicked on, Admin Panel --> Manage --> SLA, thus:
+I clicked on Admin Panel --> Manage --> SLA --> Add New SLA Plan, thus:
+
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/926a1c32-8d95-4707-9737-fd3325ae8a46)
+
+It is possible to configure SLA plans with different schedules and grace periods, depending on the business model.
