@@ -22,6 +22,15 @@ Roles are permissions that can be granted to Agents according to the departments
 
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/0e84e226-cc67-4128-bde8-299398bd3174)
 
+<h4>- What are SLAs?</h4>
+
+SLAs or Service Level Agreements, from a Help Desk standpoint, are guidelines as to the length of time by which a help desk Administrator expects a ticket to be closed.
+
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/ed54f64e-8994-4891-940e-710de1abab44)
+
+
+<h1>Configuration Walk-through:</h1>
+
 <h4>- To create and configure a 'Supreme Admin' role, for instance,</h4>
 
 I clicked on Admin Panel --> Agents --> Roles, thus:
@@ -49,3 +58,5 @@ I clicked on, Agent Panel --> Users --> Add User, thus:
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/13a8098f-0602-4b3c-8691-1d8adb70991c)
 
 <h4>- Finally, to create and configure a Service Level Agreement (SLA), for instance,</h4>
+
+I clicked on, Admin Panel --> Manage --> SLA, thus:
