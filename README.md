@@ -25,3 +25,7 @@ Roles are permissions that can be granted to Agents according to the departments
 <h4>- To create a 'Supreme Admin' role, for instance,</h4>
 
 I clicked on Admin Panel --> Agents --> Roles, thus:
+
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/de54aae7-8d8a-467e-a06c-3738f96d49f7)
+![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/d203b5b3-116f-4992-8154-dc2652d0d158)
+
