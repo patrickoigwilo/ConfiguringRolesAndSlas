@@ -29,3 +29,5 @@ I clicked on Admin Panel --> Agents --> Roles, thus:
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/de54aae7-8d8a-467e-a06c-3738f96d49f7)
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/d203b5b3-116f-4992-8154-dc2652d0d158)
 ![image](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas/assets/162601853/cf6a1363-780c-490a-b0a1-90e1b4c0508b)
+
+This Supreme Admin role was configured to do virtually everything from 'Assign' tickets to 'Transfer' tickets as shown above. 
